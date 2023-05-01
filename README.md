@@ -23,7 +23,7 @@ This is a task manager app that allows you to create, read, update and delete ta
 - [x] Update a task
 - [x] Delete a task
 
-## Installation
+## 📁 Installation
 1. Clone the repo
 ```sh
 git clone
