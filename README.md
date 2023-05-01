@@ -1,4 +1,5 @@
 # Task-Manager
+![todo](https://user-images.githubusercontent.com/53094729/235393003-3af7a5e8-d67d-40a0-8ca2-bd066cbbe7b3.gif)
 
 ## Table of Contents
 - [Live Demo](#live-demo)
