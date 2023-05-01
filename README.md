@@ -3,11 +3,11 @@
 ## Description
 This is a task manager app that allows you to create, read, update and delete tasks.
 
-### Users can:
--[x] Create a task
--[x] Read a task
--[x] Update a task
--[x] Delete a task
+### Users can
+- [x] Create a task
+- [x] Read a task
+- [x] Update a task
+- [x] Delete a task
 
 ## Installation
 1. Clone the repo
@@ -38,6 +38,7 @@ MONGODB_URL=yourMongoDBURL
 --
 <div>
 :hammer_and_wrench: Languages and Tools : <br />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"width="40" height="40"/>&nbsp;
